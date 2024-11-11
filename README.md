@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-git clone https://github.com/ludvikkristoffersen/subfuzzer.git
+git clone https://github.com/luddekn/subfuzzer.git
 ```
 ```
 pip3 install -r requirements.txt
